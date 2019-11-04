@@ -29,10 +29,10 @@ namespace ScriptsRunner
 
         static private void RunScripts(Settings settings)
         {
-            string folderName = "ScriptsToRun";
+            string folderName = "Db_Intelisale";
             var fileLines = System.IO.Directory.GetFiles(folderName);
 
-            string folderNameADM = "ScriptsToRun_ADM";
+            string folderNameADM = "Db_Intelisale_Adm";
             var fileLinesADM = System.IO.Directory.GetFiles(folderNameADM);
 
             var sLConnections = settings.Connections.Where(x => x.Enabled).Select(x => x.ConnectionString);

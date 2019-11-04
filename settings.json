@@ -1,0 +1,127 @@
+{
+  "Settings": {
+    "Connections": [
+      {
+        "Enabled": true,
+        "AdmConnectionString": {
+          "Host": "192.168.15.11",
+          "DbName": "SalesLeader_Adm_Srbija",
+          "User": "terprod",
+          "Password": "terprod321"
+        },
+        "ConnectionString": {
+          "Host": "192.168.15.11",
+          "DbName": "SalesLeader_Srbija",
+          "User": "terprod",
+          "Password": "terprod321"
+        }
+      },
+      {
+        "Enabled": false,
+        "AdmConnectionString": {
+          "Host": "192.168.15.11",
+          "DbName": "SalesLeader_Adm_Hrvatska",
+          "User": "terprod",
+          "Password": "terprod321"
+        },
+        "ConnectionString": {
+          "Host": "192.168.15.11",
+          "DbName": "SalesLeader_Hrvatska",
+          "User": "terprod",
+          "Password": "terprod321"
+        }
+      },
+      {
+        "Enabled": false,
+        "AdmConnectionString": {
+          "Host": "192.168.15.11",
+          "DbName": "SalesLeader_Adm_Makedonija",
+          "User": "terprod",
+          "Password": "terprod321"
+        },
+        "ConnectionString": {
+          "Host": "192.168.15.11",
+          "DbName": "SalesLeader_Makedonija",
+          "User": "terprod",
+          "Password": "terprod321"
+        }
+      },
+      {
+        "Enabled": false,
+        "AdmConnectionString": {
+          "Host": "192.168.15.11",
+          "DbName": "SalesLeader_Adm_Bugarska",
+          "User": "terprod",
+          "Password": "terprod321"
+        },
+        "ConnectionString": {
+          "Host": "192.168.15.11",
+          "DbName": "SalesLeader_Bugarska",
+          "User": "terprod",
+          "Password": "terprod321"
+        }
+      },
+      {
+        "Enabled": false,
+        "AdmConnectionString": {
+          "Host": "192.168.15.11",
+          "DbName": "SalesLeader_Adm_CrnaGora",
+          "User": "terprod",
+          "Password": "terprod321"
+        },
+        "ConnectionString": {
+          "Host": "192.168.15.11",
+          "DbName": "SalesLeader_CrnaGora",
+          "User": "terprod",
+          "Password": "terprod321"
+        }
+      },
+      {
+        "Enabled": false,
+        "AdmConnectionString": {
+          "Host": "192.168.15.11",
+          "DbName": "SalesLeader_Adm_Dubai",
+          "User": "terprod",
+          "Password": "terprod321"
+        },
+        "ConnectionString": {
+          "Host": "192.168.15.11",
+          "DbName": "SalesLeader_Dubai",
+          "User": "terprod",
+          "Password": "terprod321"
+        }
+      },
+      {
+        "Enabled": false,
+        "AdmConnectionString": {
+          "Host": "192.168.15.11",
+          "DbName": "SalesLeader_Adm_Izrael",
+          "User": "terprod",
+          "Password": "terprod321"
+        },
+        "ConnectionString": {
+          "Host": "192.168.15.11",
+          "DbName": "SalesLeader_Izrael",
+          "User": "terprod",
+          "Password": "terprod321"
+        }
+      },
+      {
+        "Enabled": false,
+        "AdmConnectionString": {
+          "Host": "192.168.15.11",
+          "DbName": "SalesLeader_Adm_Island",
+          "User": "terprod",
+          "Password": "terprod321"
+        },
+        "ConnectionString": {
+          "Host": "192.168.15.11",
+          "DbName": "SalesLeader_Island",
+          "User": "terprod",
+          "Password": "terprod321"
+        }
+      }
+    ]
+  }
+}
+
